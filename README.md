@@ -1,16 +1,40 @@
-<!-- Header with GIF banner -->
+<!-- Header with animated banner -->
 <div align="center">
-  <img src="kaltsit-dance.gif" width="200"/>
-  
-  # 👾 Welcome to npcnon's Hub 
-  
+
+  # 🚀 Welcome to npcnon's Tech Universe
+
   <p align="center">
-    <em>Backend Developer | Code Enthusiast | Problem Solver</em>
+    <strong>Backend Developer | Problem Solver | Technology Enthusiast</strong><br>
+    <em>"Crafting robust backend solutions and exploring new technologies"</em>
   </p>
-  
-  [![](https://img.shields.io/badge/-Backend%20Developer-black?style=for-the-badge)](https://github.com/npcnon)
-  
+
+  <table>
+    <tr>
+      <td><img src="https://64.media.tumblr.com/8f1e73ae0a74bc24a7377cd97cb26510/tumblr_nxzff8IHT81tgzy56o1_r1_1280.gifv" width="300"/></td>
+      <td><img src="https://64.media.tumblr.com/dbde4530392287b64f6878287d471112/tumblr_nmi0gyLw4N1tgzy56o1_540.gifv" width="300"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://64.media.tumblr.com/d96142e7df943b273d6d4cb9fa0f9210/tumblr_nigorsAgJY1tgzy56o1_400.gifv" width="300"/></td>
+      <td><img src="https://64.media.tumblr.com/f489f2492bd2641f8b8540ef57fb3f2d/tumblr_nq7ymstGxa1tgzy56o1_r2_540.gifv" width="300"/></td>
+    </tr>
+  </table>
+
 </div>
+
+---
+
+### 👋 About Me
+
+Hi there! I'm John Mhafric Magalso, a 21-year-old backend developer based in the vibrant tech community of Cebu City, Philippines. I prefer and am more comfortable with backend development, though I can work with frontend technologies when needed. I'm on a continuous journey of growth and learning in the tech world.
+
+#### 🎯 Professional Focus
+- 💼 Currently working as a Backend Developer in Cebu City
+- 🔧 Building scalable backend systems
+- 🌱 Actively learning and exploring new technologies
+- 🤝 Open to collaboration and knowledge sharing
+
+#### 💡 Philosophy
+> "I believe in continuous learning and growth. While I may not be an expert in everything, my enthusiasm for technology and dedication to improvement drives me to explore new challenges and possibilities."
 
 ---
 
@@ -23,46 +47,66 @@
 
 ---
 
-### 📈 Contribution Graph
+### 📈 Development Journey
 
 [![npcnon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=npcnon&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-<!-- Technologies Section with enhanced styling -->
-### 🚀 Technologies I've Worked With
+### 🛠️ Technologies I've Worked With
 
 <div align="center">
 
-#### 💻 Languages
+#### 💻 Core Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### 🛠 Frameworks & Libraries
+#### 🚀 Backend Frameworks
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/-Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-#### 🗄️ Databases
+#### 🗄️ Database Management
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-#### ☁️ Hosting & Services
+#### ☁️ Cloud & Deployment
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![PythonAnywhere](https://img.shields.io/badge/-PythonAnywhere-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Gmail API](https://img.shields.io/badge/-Gmail%20API-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
-#### 🔧 Tools
+#### 🔧 Development Tools
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
+</div>
+
+---
+
+### 📫 Let's Connect
+
+<div align="center">
+
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/NPCUSER/)
+
+If you're interested in collaborating or just want to say hi, feel free to reach out!
+
+</div>
+
+---
+
+<div align="center">
+
+#### 💭 Remember
+> "The best way to predict the future is to create it."
+<img src="https://64.media.tumblr.com/4a2fe100d4fc1889977b0a170af0978f/tumblr_njov1xCRiX1tgzy56o1_540.gifv" width="500"/>
 </div>
