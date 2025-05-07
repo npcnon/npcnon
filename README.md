@@ -28,7 +28,7 @@
 Hi there! I'm John Mhafric Magalso, a 21-year-old backend developer based in the vibrant tech community of Cebu City, Philippines. I prefer and am more comfortable with backend development, though I can work with frontend technologies when needed. I'm on a continuous journey of growth and learning in the tech world.
 
 #### 🎯 Professional Focus
-- 💼 Currently working as a Backend Developer in Cebu City
+- 💼 Currently working as a Full Stack Developer in Cebu City
 - 🔧 Building scalable backend systems
 - 🌱 Actively learning and exploring new technologies
 - 🤝 Open to collaboration and knowledge sharing
