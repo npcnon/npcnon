@@ -9,7 +9,7 @@
   </p>
 
   <a href="https://tenor.com/view/ghostedvpn-hacker-cat-bongo-cat-keyboard-cat-hacker-gif-4373606555250453292">
-      <img src="https://media.tenor.com/llLMUZH_8rUAAAAd/ghostedvpn-hacker-cat.gif" width="100%"/>
+      <img src="./ghostedvpn-hacker-cat.gif" width="100%" alt="Hacker Cat" />
   </a>
 
 </div>
