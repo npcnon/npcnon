@@ -8,16 +8,7 @@
     <em>"Crafting robust backend solutions and exploring new technologies"</em>
   </p>
 
-  <table>
-    <tr>
-      <td><img src="https://64.media.tumblr.com/8f1e73ae0a74bc24a7377cd97cb26510/tumblr_nxzff8IHT81tgzy56o1_r1_1280.gifv" width="300"/></td>
-      <td><img src="https://64.media.tumblr.com/dbde4530392287b64f6878287d471112/tumblr_nmi0gyLw4N1tgzy56o1_540.gifv" width="300"/></td>
-    </tr>
-    <tr>
-      <td><img src="https://64.media.tumblr.com/d96142e7df943b273d6d4cb9fa0f9210/tumblr_nigorsAgJY1tgzy56o1_400.gifv" width="300"/></td>
-      <td><img src="https://64.media.tumblr.com/f489f2492bd2641f8b8540ef57fb3f2d/tumblr_nq7ymstGxa1tgzy56o1_r2_540.gifv" width="300"/></td>
-    </tr>
-  </table>
+<div class="tenor-gif-embed" data-postid="4373606555250453292" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/ghostedvpn-hacker-cat-bongo-cat-keyboard-cat-hacker-gif-4373606555250453292">Ghostedvpn Hacker Cat GIF</a>from <a href="https://tenor.com/search/ghostedvpn-gifs">Ghostedvpn GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 </div>
 
