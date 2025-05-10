@@ -99,7 +99,6 @@ If you're interested in collaborating or just want to say hi, feel free to reach
 
 <div align="center">
 
-#### 💭 Remember
-> "The best way to predict the future is to create it."
+
 <img src="https://64.media.tumblr.com/4a2fe100d4fc1889977b0a170af0978f/tumblr_njov1xCRiX1tgzy56o1_540.gifv" width="500"/>
 </div>
