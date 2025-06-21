@@ -42,7 +42,8 @@ Hi there! I'm John Mhafric Magalso, a 21-year-old backend developer based in Ceb
 
 <div align="center">
 
-![Snake animation](https://github.com/npcnon/npcnon/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/npcnon/npcnon/output/github-contribution-grid-snake.svg)
+
 
 </div>
 
