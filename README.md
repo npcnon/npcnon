@@ -6,10 +6,6 @@
 <p align="center">
   <strong>Backend Developer | Problem Solver | Technology Enthusiast</strong><br>
   <em>"Crafting robust backend solutions and exploring new technologies"</em>
-</p>
-
-</div>
-
 ---
 
 ### 👋 About Me
@@ -30,18 +26,10 @@ Hi there! I'm a backend developer based in Cebu City, Philippines. I specialize 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=npcnon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=npcnon&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
 ---
 
-### 🎮 Terminal Animations
-
 <div align="center">
-  <img src="./ascii.gif" alt="ASCII Snake Game" width="80%"/>
-  <br/><br/>
-  <img src="./ascii2.gif" alt="ASCII Snake 2" width="80%"/>
-</div>
-
+  <img src="./ascii.gif" alt="ASCII Snake Game" width="60%"/>
 ---
 
 ### 🛠️ Technical Stack
@@ -79,8 +67,10 @@ Hi there! I'm a backend developer based in Cebu City, Philippines. I specialize 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Gmail API](https://img.shields.io/badge/-Gmail%20API-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
-</div>
+---
 
+<div align="center">
+  <img src="./ascii2.gif" alt="ASCII Snake 2" width="60%"/>
 ---
 
 ### 🎯 Current Focus
@@ -103,10 +93,7 @@ Hi there! I'm a backend developer based in Cebu City, Philippines. I specialize 
 
 Open to collaboration opportunities and interesting projects!
 
-</div>
-
 ---
 
 <div align="center">
   <em>⭐ Feel free to explore my repositories and don't hesitate to star any projects you find interesting!</em>
-</div>
