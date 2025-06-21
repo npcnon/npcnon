@@ -6,6 +6,8 @@
 <p align="center">
   <strong>Backend Developer | Problem Solver | Technology Enthusiast</strong><br>
   <em>"Crafting robust backend solutions and exploring new technologies"</em>
+</p>
+
 ---
 
 ### 👋 About Me
@@ -23,18 +25,13 @@ Hi there! I'm a backend developer based in Cebu City, Philippines. I specialize 
 
 ### 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=npcnon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=npcnon&layout=compact&langs_count=8&theme=tokyonight"/>
----
 
-<div align="center">
-  <img src="./ascii.gif" alt="ASCII Snake Game" width="60%"/>
 ---
 
 ### 🛠️ Technical Stack
-
-<div align="center">
 
 #### 💻 Core Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -70,7 +67,8 @@ Hi there! I'm a backend developer based in Cebu City, Philippines. I specialize 
 ---
 
 <div align="center">
-  <img src="./ascii2.gif" alt="ASCII Snake 2" width="60%"/>
+  <img src="./ascii.gif" alt="ASCII Art Animation" width="70%"/>
+
 ---
 
 ### 🎯 Current Focus
@@ -83,6 +81,11 @@ Hi there! I'm a backend developer based in Cebu City, Philippines. I specialize 
 
 ---
 
+<div align="center">
+  <img src="./ascii2.gif" alt="ASCII Art Animation 2" width="70%"/>
+
+---
+
 ### 📫 Let's Connect
 
 <div align="center">
@@ -91,7 +94,7 @@ Hi there! I'm a backend developer based in Cebu City, Philippines. I specialize 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
-Open to collaboration opportunities and interesting projects!
+</div>
 
 ---
 
