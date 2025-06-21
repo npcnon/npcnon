@@ -1,16 +1,12 @@
-<!-- Header with animated banner -->
+<!-- Header -->
 <div align="center">
 
-  # 🚀 Welcome to npcnon's Tech Universe
+# 🚀 Welcome to npcnon's Tech Universe
 
-  <p align="center">
-    <strong>Backend Developer | Problem Solver | Technology Enthusiast</strong><br>
-    <em>"Crafting robust backend solutions and exploring new technologies"</em>
-  </p>
-
-  <a href="https://tenor.com/view/ghostedvpn-hacker-cat-bongo-cat-keyboard-cat-hacker-gif-4373606555250453292">
-      <img src="./back.gif" width="50%" alt="Coding" />
-  </a>
+<p align="center">
+  <strong>Backend Developer | Problem Solver | Technology Enthusiast</strong><br>
+  <em>"Crafting robust backend solutions and exploring new technologies"</em>
+</p>
 
 </div>
 
@@ -18,7 +14,7 @@
 
 ### 👋 About Me
 
-Hi there! I'm John Mhafric Magalso, a 21-year-old backend developer based in Cebu City, Philippines. I specialize in backend development and am passionate about building scalable, efficient systems. Always eager to learn new technologies and tackle challenging problems.
+Hi there! I'm a backend developer based in Cebu City, Philippines. I specialize in backend development and am passionate about building scalable, efficient systems. Always eager to learn new technologies and tackle challenging problems.
 
 #### 🎯 Professional Focus
 - 💼 Junior Developer specializing in backend systems
@@ -36,6 +32,15 @@ Hi there! I'm John Mhafric Magalso, a 21-year-old backend developer based in Ceb
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=npcnon&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
+---
+
+### 🎮 Terminal Animations
+
+<div align="center">
+  <img src="./ascii.gif" alt="ASCII Snake Game" width="80%"/>
+  <br/><br/>
+  <img src="./ascii2.gif" alt="ASCII Snake 2" width="80%"/>
+</div>
 
 ---
 
