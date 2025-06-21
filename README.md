@@ -18,16 +18,14 @@
 
 ### 👋 About Me
 
-Hi there! I'm John Mhafric Magalso, a 21-year-old backend developer based in the vibrant tech community of Cebu City, Philippines. I prefer and am more comfortable with backend development, though I can work with frontend technologies when needed. I'm on a continuous journey of growth and learning in the tech world.
+Hi there! I'm John Mhafric Magalso, a 21-year-old backend developer based in Cebu City, Philippines. I specialize in backend development and am passionate about building scalable, efficient systems. Always eager to learn new technologies and tackle challenging problems.
 
 #### 🎯 Professional Focus
-- 💼 a Junior Developer in Cebu City
-- 🔧 Building scalable backend systems
-- 🌱 Actively learning and exploring new technologies
+- 💼 Junior Developer specializing in backend systems
+- 🔧 Building scalable and maintainable applications
+- 🌱 Continuously expanding my technical skillset
 - 🤝 Open to collaboration and knowledge sharing
-
-#### 💡 Philosophy
-> "I believe in continuous learning and growth. While I may not be an expert in everything, my enthusiasm for technology and dedication to improvement drives me to explore new challenges and possibilities."
+- 🎓 Currently pursuing growth in cloud technologies and system architecture
 
 ---
 
@@ -40,13 +38,7 @@ Hi there! I'm John Mhafric Magalso, a 21-year-old backend developer based in the
 
 ---
 
-### 📈 Development Journey
-
-[![npcnon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=npcnon&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-### 🛠️ Technologies I've Worked With
+### 🛠️ Technical Stack
 
 <div align="center">
 
@@ -62,7 +54,7 @@ Hi there! I'm John Mhafric Magalso, a 21-year-old backend developer based in the
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-#### 🗄️ Database used with ORM
+#### 🗄️ Databases & ORM
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -73,15 +65,25 @@ Hi there! I'm John Mhafric Magalso, a 21-year-old backend developer based in the
 ![PythonAnywhere](https://img.shields.io/badge/-PythonAnywhere-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Gmail API](https://img.shields.io/badge/-Gmail%20API-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
-#### 🔧 Development Tools
+#### 🔧 Development Tools & APIs
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Gmail API](https://img.shields.io/badge/-Gmail%20API-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
 </div>
+
+---
+
+### 🎯 Current Focus
+
+- Building RESTful APIs and microservices
+- Exploring cloud-native development patterns
+- Database optimization and design
+- API security and authentication systems
+- Performance monitoring and optimization
 
 ---
 
@@ -90,10 +92,15 @@ Hi there! I'm John Mhafric Magalso, a 21-year-old backend developer based in the
 <div align="center">
 
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/NPCUSER/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
-If you're interested in collaborating or just want to say hi, feel free to reach out!
+Open to collaboration opportunities and interesting projects!
 
 </div>
 
 ---
 
+<div align="center">
+  <em>⭐ Feel free to explore my repositories and don't hesitate to star any projects you find interesting!</em>
+</div>
