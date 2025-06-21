@@ -36,51 +36,6 @@ Hi there! I'm John Mhafric Magalso, a 21-year-old backend developer based in Ceb
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=npcnon&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
----
-
-### 🐍 Contribution Snake Animation
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/npcnon/npcnon/output/github-contribution-grid-snake.svg)
-
-
-</div>
-
----
-
-### 🎮 ASCII Snake Game (Auto-Playing)
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                                                              ║
-║        🍎                                                    ║
-║                                                              ║
-║                                                              ║
-║                         🟢🟢🟢🟢                             ║
-║                                                              ║
-║                                                              ║
-║                                                              ║
-║                                                              ║
-║                                                              ║
-║                                                              ║
-║                                                              ║
-║                                                              ║
-║                                                              ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-
-🐍 Score: 4  |  🏆 High Score: 42  |  🎮 Games Played: 127
-Last Move: RIGHT ➡️  |  Next Apple: 2 moves away
-Game Status: ACTIVE 🟢
-```
-
-**Game Updates Automatically Every 6 Hours!**
-
-</div>
 
 ---
 
