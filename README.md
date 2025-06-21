@@ -38,6 +38,51 @@ Hi there! I'm John Mhafric Magalso, a 21-year-old backend developer based in Ceb
 
 ---
 
+### 🐍 Contribution Snake Animation
+
+<div align="center">
+
+![Snake animation](https://github.com/npcnon/npcnon/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+### 🎮 ASCII Snake Game (Auto-Playing)
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║                                                              ║
+║        🍎                                                    ║
+║                                                              ║
+║                                                              ║
+║                         🟢🟢🟢🟢                             ║
+║                                                              ║
+║                                                              ║
+║                                                              ║
+║                                                              ║
+║                                                              ║
+║                                                              ║
+║                                                              ║
+║                                                              ║
+║                                                              ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+
+🐍 Score: 4  |  🏆 High Score: 42  |  🎮 Games Played: 127
+Last Move: RIGHT ➡️  |  Next Apple: 2 moves away
+Game Status: ACTIVE 🟢
+```
+
+**Game Updates Automatically Every 6 Hours!**
+
+</div>
+
+---
+
 ### 🛠️ Technical Stack
 
 <div align="center">
