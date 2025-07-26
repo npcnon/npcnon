@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-Hi there! I'm a backend developer based in **Cebu City, Philippines**. I specialize in backend development and am passionate about building scalable, efficient systems. Always eager to learn new technologies and tackle challenging problems.
+Hi there! I'm a developer specialized in backend development and am passionate about building scalable, efficient systems. Always eager to learn new technologies and tackle challenging problems.
 
 **What I'm focused on:**
 
